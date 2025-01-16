@@ -8,7 +8,7 @@ export default function Hero() {
         <h1 className="text-4xl font-bold text-pink-600 mb-4">
           Will You Go On A Date With Me?
         </h1>
-        <p className="text-lg text-gray-700">Dear Na,</p>
+        <p className="text-lg text-gray-700">Dear Miêu,</p>
         <p className="text-gray-700 my-4">
           Cái này hơi khác lạ nhưng mà anh nghĩ cách này sẽ dễ dàng cho em hơn
           trong việc chọn chỗ đi chơi của chúng mình =))))
